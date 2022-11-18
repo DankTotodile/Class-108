@@ -1,0 +1,35 @@
+img
+{
+    width: 250px;
+    height: 250px;
+}
+body
+{
+    background-color: pink;
+}
+#header
+{
+    font-family: Brush Script MT;
+    background-color: white;
+    margin-top: 0px;
+    top: 0;
+    position: fixed;
+    width: 100%;
+    margin-bottom: 100px;
+    padding-bottom: 10px;
+}
+#start
+{
+    margin-top: 150px;
+}
+p
+{
+    font-size: 25px;
+}
+#footer
+{
+    background-color: white;
+    margin-top: 200px;
+    padding: 5px;
+    font-family: Brush Script MT;
+}
